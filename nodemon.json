@@ -1,0 +1,15 @@
+{
+    "restartable": true,
+    "ignore": [
+        ".babelrc",
+        "build",
+        "client",
+        "node_modules",
+        "package.json"
+    ],
+    "env": {
+        "NODE_ENV": "development"
+    },
+    "verbase": true,
+    "ext": ".js"
+}
